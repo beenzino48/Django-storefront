@@ -61,7 +61,6 @@
         "**/tmp/**": true,
         "**/vendor/**": true
     },
-    "git.enabled": false,
     "python.defaultInterpreterPath": "~/.pyenv/shims/python",
     "python.formatting.provider": "yapf",
     "python.terminal.activateEnvironment": false,
